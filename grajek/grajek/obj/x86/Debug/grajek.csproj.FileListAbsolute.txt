@@ -1,0 +1,9 @@
+C:\Users\TEMP.VLO30-13.001\Desktop\grajek\grajek\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\TEMP.VLO30-13.001\Desktop\grajek\grajek\obj\x86\Debug\grajek.csproj.ResolveComReference.cache
+C:\Users\TEMP.VLO30-13.001\Desktop\grajek\grajek\bin\Debug\grajek.exe
+C:\Users\TEMP.VLO30-13.001\Desktop\grajek\grajek\bin\Debug\grajek.pdb
+C:\Users\TEMP.VLO30-13.001\Desktop\grajek\grajek\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\TEMP.VLO30-13.001\Desktop\grajek\grajek\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\TEMP.VLO30-13.001\Desktop\grajek\grajek\obj\x86\Debug\grajek.csproj.GenerateResource.Cache
+C:\Users\TEMP.VLO30-13.001\Desktop\grajek\grajek\obj\x86\Debug\grajek.exe
+C:\Users\TEMP.VLO30-13.001\Desktop\grajek\grajek\obj\x86\Debug\grajek.pdb
